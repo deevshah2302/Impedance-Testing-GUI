@@ -235,10 +235,7 @@ Ensure the application has write permission for the output folder.
 
 ---
 
-# Developed For
+# Future Improvements
 
-UBC Solar
-
-Battery Mechanical Team (BTM)
-
-For automated impedance testing of lithium-ion cells used in battery module assembly.
+- Adding Capacity and OCV Calendar Aging to this as well
+- Circuit analysis
